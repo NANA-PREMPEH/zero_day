@@ -1,1 +1,1 @@
-this is my first vagrant vm
+**This file is mandatory in projects**
